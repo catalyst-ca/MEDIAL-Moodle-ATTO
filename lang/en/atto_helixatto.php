@@ -38,6 +38,7 @@ $string['helixatto:visible'] = 'User can add MEDIAL videos using atto';
 $string['helixatto:visiblemodtype'] = 'User can add MEDIAL videos using atto if the module is enabled for this permission in the atto plugin config';
 $string['hideinsert'] = 'Hide the Insert button';
 $string['hideinsert_desc'] = 'Hides the insert button at the bottom of the insert video dialog. Note: The insert button will aways be shown regardless of the setting here if the "Video add dialog box close delay in seconds" property of the activity module (helixmedia | modal_delay) is set to a negative number.';
+$string['privacy:metadata'] = 'Helix Assignment Submission plugin does not store any personal data.';
 $string['showvideo'] = 'View MEDIAL video';
 $string['uselinktitle'] = 'Use a link to the MEDIAL resource';
 $string['uselinkdesc'] = 'Some activity module types will strip out the MEDIAL iframe created by the MEDIAL ATTO plugin even for users who have teacher permissions. To work around this the atto plugin can generate a normal link to the resource instead. Modules should be listed here in the same way as the alternate permission function. The Workshop and Forum activities are known to do this so are included by default. If you would like the links to show as embedded iframes regardless, please install the MEDIAL filter plugin. If the placeholder option above is on, a link will be always be used regardless of the modules specified here.';
